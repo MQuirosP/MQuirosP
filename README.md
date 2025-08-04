@@ -15,7 +15,7 @@ Soy un desarrollador backend en formación, aprendiendo a construir APIs robusta
 
 ## 📊 GitHub Stats
 
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariocrdev&show_icons=true&theme=tokyonight)
+![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=MQuirosP&show_icons=true&theme=tokyonight)
 
 ## 🚀 Proyectos Destacados
 
