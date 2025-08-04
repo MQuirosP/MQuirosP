@@ -20,6 +20,6 @@ Soy un desarrollador backend en formación, aprendiendo a construir APIs robusta
 ## 🚀 Proyectos Destacados
 
 - 🧾 [OCR Invoice Manager](https://github.com/MQuirosP/invoices_mngmt)
-- 🧾 [Point Of Sale] (https://github.com/MQuirosP/point-of-sale-app)
+- 🧾 [Point Of Sale](https://github.com/MQuirosP/point-of-sale-app)
   
 
