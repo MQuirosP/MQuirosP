@@ -1,25 +1,51 @@
-# 👋 ¡Hola! Soy Mario
+# 👋 ¡Hola! Soy Mario Quirós
 
-Soy un desarrollador backend en formación, aprendiendo a construir APIs robustas y limpias con Node.js, PostgreSQL y TypeScript.
+Soy un desarrollador web en formación enfocado en crear soluciones limpias, funcionales y bien estructuradas. Me apasiona aprender constantemente y aplicar buenas prácticas de desarrollo.
 
-- 🔭 Actualmente trabajando en: Gestión de facturas con OCR y Prisma
-- 🌱 Aprendiendo: Arquitectura limpia, TDD y Docker
-- 💬 Pregúntame sobre: Node.js, Express, Prisma, Sequelize, TypeORM
-- ⚡ Fun fact: A veces me peleo con los tests... ¡pero me reconcilio después!
+---
 
-## 🛠️ Tecnologías
+### 🚀 Tecnologías que uso
 
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
-## 📊 GitHub Stats
+---
 
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=MQuirosP&show_icons=true&theme=tokyonight)
+### 📚 Actualmente aprendiendo
 
-## 🚀 Proyectos Destacados
+- 🧠 Arquitectura limpia
+- 🧪 Buenas prácticas con TDD
+- 🐳 Docker y despliegue de apps web
+- 🧾 OCR con Tesseract
 
-- 🧾 [OCR Invoice Manager](https://github.com/MQuirosP/invoices_mngmt)
-- 🧾 [Point Of Sale](https://github.com/MQuirosP/point-of-sale-app)
-  
+---
 
+### 📈 Estadísticas
+
+![MQuirosP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MQuirosP&show_icons=true&theme=tokyonight&hide_rank=false)
+
+---
+
+### 💡 Proyectos destacados
+
+- 🧾 [OCR Invoice Manager](https://github.com/MQuirosP/invoices_mngmt)  
+  Sistema para importar y analizar facturas con OCR, usando Tesseract, Express y Prisma.
+
+- 🧾 [Point Of Sale](https://github.com/MQuirosP/point-of-sale-app) 
+  Sistema de punto de venta para regimen simplificado de Costa Rica.
+
+---
+
+### 🌐 Conectá conmigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mario-quir%C3%B3s-pizarro-0a7241180/)
+[![Correo](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:mquirosp78@gmail.com)
+
+---
+
+> "La excelencia no es un acto, es un hábito." – Aristóteles
