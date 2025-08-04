@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Mario Quirós
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Bienvenido a mi perfil" />
-
 Soy un desarrollador web en formación enfocado en crear soluciones limpias, funcionales y bien estructuradas. Me apasiona aprender constantemente y aplicar buenas prácticas de desarrollo.
 
 ---
