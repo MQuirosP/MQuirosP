@@ -6,39 +6,7 @@ Soy un desarrollador web en formación enfocado en crear soluciones limpias, fun
 
 ### 🚀 Tecnologías que uso
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react-native&logoColor=000)
-
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
-
-![Tamagui](https://img.shields.io/badge/-Tamagui-FF6D6D?style=flat)
-
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
-
-![Zustand](https://img.shields.io/badge/-Zustand-443C48?style=flat)
-
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=react-hook-form&logoColor=white)
-
-![Zod](https://img.shields.io/badge/-Zod-3E63DD?style=flat&logo=zod&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-
-![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=flat&logo=typeorm&logoColor=white)
-
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react-native&logoColor=000) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white) ![Tamagui](https://img.shields.io/badge/-Tamagui-FF6D6D?style=flat) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-443C48?style=flat) ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=react-hook-form&logoColor=white) ![Zod](https://img.shields.io/badge/-Zod-3E63DD?style=flat&logo=zod&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff) ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) ![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=flat&logo=typeorm&logoColor=white) ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize)
 
 ---
 
